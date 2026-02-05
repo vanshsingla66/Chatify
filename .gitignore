@@ -1,0 +1,11 @@
+# Env files (anywhere)
+.env
+**/.env
+
+# Backend env
+backend/.env
+backend/.env.*
+
+# macOS
+.DS_Store
+**/.DS_Store
